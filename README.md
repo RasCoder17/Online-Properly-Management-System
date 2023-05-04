@@ -12,16 +12,19 @@ Abstract
 The Property Management System consists of several modules that enable customers and administrators to interact with the website and perform various tasks related to property transactions.
 
 Modules Used
+
 Customer Module:
 
 Customers can view and update their personal information, including name, address, and phone number, to keep their customer record up to date in the database.
 Customers can buy or rent properties listed by other users, as well as add, update, or delete their own properties on the website.
 Customers will be notified if another user sends a request to buy their property.
+
 Admin Module:
 
 The administrator has the ability to create, update, delete, and query customer records to manage rental information.
 The administrator can add recently purchased properties to the inventory after every successful purchase.
 The administrator can send emails to customers regarding their user account and purchases.
+
 Property Module:
 
 This module stores details of the properties available for sale or rent, such as flats, offices, individual houses, apartments, etc.
